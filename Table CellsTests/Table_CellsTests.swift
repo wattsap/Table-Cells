@@ -2,8 +2,8 @@
 //  Table_CellsTests.swift
 //  Table CellsTests
 //
-//  Created by Andrew Watts on 6/10/15.
-//  Copyright (c) 2015 Andrew Watts. All rights reserved.
+//  Created by Kim Topley on 10/10/14.
+//  Copyright (c) 2014 Apress. All rights reserved.
 //
 
 import UIKit
